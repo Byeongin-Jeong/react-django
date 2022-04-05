@@ -1,5 +1,5 @@
-# Cisco UCS Fabric Interconnects
-React-Django default setting project
+## Concept
+React-Django Default Project provided
 
 ## Development Environment
 1. python interpreter => python 3.8
