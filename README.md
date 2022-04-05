@@ -9,6 +9,8 @@ React-Django Default Project provided
   - django cors headers (pip install django-cors-headers)
 3. npm
   - It is installed together with Node.js installation
+4. yarn
+  - npm install -g yarn
 
 ## Structure
 Backend - django, dajngo rest framework
@@ -23,7 +25,7 @@ Frontend - react
 2. django server running
   - python manage.py runserver
 3. react server running
-  - npm start
+  - yarn start
 
 ## Open url
 http://localhost:3000
